@@ -2,7 +2,7 @@ import telebot
 import codecs
 import random
 
-bot = telebot.TeleBot("379250925:AAGihZaOJC0Ppl34bg3WZVcc6DhsuRjtBK4")
+bot = telebot.TeleBot()
 
 
 
